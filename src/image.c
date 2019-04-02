@@ -1259,6 +1259,7 @@ void test_resize(char *filename)
 
 
     show_image(im,   "Original", 1);
+    show_image(im,   "Original", 1);
     show_image(gray, "Gray", 1);
     show_image(c1, "C1", 1);
     show_image(c2, "C2", 1);
